@@ -1,35 +1,55 @@
-<h1 align="center">Abdurahman Farah — Junior Consultant & CS Student</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&center=true&vCenter=true&width=560&lines=Junior+Consultant+at+Cand;BSc+Computer+Science+%26+Informatics+%40+RUC;Exploring+IT%2C+digitalization+and+automation" alt="Typing intro" /> </p> <p align="center"> <a href="https://github.com/AB-Farah"><img src="https://img.shields.io/github/followers/AB-Farah?label=Followers&style=flat-square" alt="Followers" /></a> <a href="https://www.linkedin.com/in/abdurahman-farah-a4801633a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a> <a href="mailto:abdurahman.farah01@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-555?style=flat-square&logo=gmail" alt="Email" /></a> </p>
-About
-
-I'm a Junior Consultant, working in IT consulting and software development, and a BSc Computer Science & Informatics student at Roskilde University (RUC).
-
-I'm interested in how software can make everyday processes simpler, whether that's digitalizing a manual workflow, automating something repetitive, or building a tool that helps people keep track of what matters. I like clear, readable solutions that are easy to test and easy to hand over.
-
-Based in Denmark (CET / UTC+1).
-
-Currently working on
-IT & digitalization: learning how businesses use technology, and where software genuinely makes a difference.
-Automation: scripting the boring parts so the interesting parts get more time.
-Software development at RUC: Java portfolio projects focused on solid object-oriented design.
-Selected work
-Project	What it is
-Personal-economy-app	A web application for keeping track of your personal finances: set budgets, analyse your spending and follow your financial development over time. Built in TypeScript.
-Portfolio-1 · Portfolio-2 · Portfolio-3	Software Development portfolio assignments from RUC, written in Java.
-What I reach for
-Layer	Usually
-Languages	Python, Java, JavaScript, TypeScript, PHP
-Web	HTML, CSS
-Tools	Git, GitHub
-
-Still growing this list. These are the tools I've used enough to know where they shine and where they break.
-
-How I work
-Understand the problem first. The best code is often the code you didn't need once the requirement was clear.
-Small, reviewable changes. Easy to read, easy to test, easy to roll back.
-Write it down. Notes and documentation while the context is fresh, not after it's gone.
-📊 Activity
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AB-Farah&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Farah&layout=compact&hide_border=true&theme=transparent" alt="Top languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AB-Farah&hide_border=true&theme=transparent" alt="GitHub streak" /> </p>
-Contact
-Email: abdurahman.farah01@gmail.com
-LinkedIn: www.linkedin.com/in/abdurahman-farah
-Happy to talk about: IT and digitalization, automation ideas, student projects and early-career software development.
+<h1 align="center">Hi, I'm Abdurahman 👋</h1>
+ 
+<p align="center">
+  BSc Computer Science &amp; Informatics student at Roskilde University (RUC)<br/>
+  Exploring IT, digitalization and automation
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdurahman-farah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abdurahman.farah01@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+---
+ 
+## About
+ 
+I'm interested in how software can make everyday processes simpler, whether that means digitalizing a manual workflow, automating something repetitive, or building a tool that helps people keep track of what matters. I like clear, readable solutions that are easy to test and easy to hand over.
+ 
+Longer term, I'm working towards **AI engineering**.
+ 
+📍 Denmark (CET / UTC+1)
+ 
+## Currently
+ 
+- **IT & digitalization:** learning how businesses use technology, and where software makes a real difference
+- **Automation:** scripting the repetitive parts so there's more time for the interesting ones
+- **Software development at RUC:** Java projects with a focus on solid object-oriented design
+## Projects
+ 
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Personal-economy-app](https://github.com/AB-Farah/Personal-economy-app.) | Web app for tracking personal finances: set budgets, analyse spending and follow your progress over time | TypeScript |
+| [Portfolio-1](https://github.com/AB-Farah/Portfolio-1) · [2](https://github.com/AB-Farah/Portfolio-2) · [3](https://github.com/AB-Farah/Portfolio-3) | Software Development portfolio assignments from RUC | Java |
+ 
+## Tech
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ 
+## GitHub stats
+ 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AB-Farah&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Farah&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
+## Contact
+ 
+📧 abdurahman.farah01@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/abdurahman-farah)
+ 
+Happy to talk about IT and digitalization, automation ideas, student projects and early-career software development.
+ 
