@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Abdurahman 👋</h1>
  
 <p align="center">
-  BSc Computer Science &amp; Informatics student at Roskilde University (RUC)<br/>
-  Exploring IT, digitalization and automation
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=CS+%26+Informatics+student+%40+RUC;Exploring+IT%2C+digitalization+and+automation;Working+towards+AI+engineering" alt="Typing intro" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/abdurahman-farah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
