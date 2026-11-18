@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdurahman-farah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abdurahman.farah01@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
----
+
  
 ## About
  
@@ -16,8 +16,7 @@ I'm interested in how software can make everyday processes simpler, whether that
  
 Longer term, I'm working towards **AI engineering**.
  
-📍 Denmark (CET / UTC+1)
- 
+
 ## Currently
  
 - **IT & digitalization:** learning how businesses use technology, and where software makes a real difference
