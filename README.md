@@ -12,9 +12,7 @@
  
 ## About
  
-I'm interested in how software can make everyday processes simpler, whether that means digitalizing a manual workflow, automating something repetitive, or building a tool that helps people keep track of what matters. I like clear, readable solutions that are easy to test and easy to hand over.
- 
-Longer term, I'm working towards **AI engineering**.
+I'm interested in AI & software development, and how that can make everyday processes simpler, whether that means digitalizing a manual workflow, automating something repetitive, or building a tool that helps people keep track of what matters. I like clear, readable solutions that are easy to test and easy to hand over.
  
 
 ## Currently
