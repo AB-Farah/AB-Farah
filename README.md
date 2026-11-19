@@ -23,6 +23,7 @@ I'm interested in AI & software development, and how that can make everyday proc
  
 | Project | Description | Stack |
 | --- | --- | --- |
+| [Gate21 Sensor Dashboard](https://github.com/AB-Farah/gate21-sensor-dashboard) | Interactive map of people-counting sensors, built as a group project at RUC with Gate21 as the case · [Live demo](https://ab-farah.github.io/gate21-sensor-dashboard/) | JavaScript, Leaflet |
 | [Personal-economy-app](https://github.com/AB-Farah/Personal-economy-app.) | Web app for tracking personal finances: set budgets, analyse spending and follow your progress over time | TypeScript |
 | [Portfolio-1](https://github.com/AB-Farah/Portfolio-1) · [2](https://github.com/AB-Farah/Portfolio-2) · [3](https://github.com/AB-Farah/Portfolio-3) | Software Development portfolio assignments from RUC | Java |
  
@@ -43,6 +44,7 @@ I'm interested in AI & software development, and how that can make everyday proc
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=AB-Farah&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB-Farah&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
+
 ## Contact
  
 📧 abdurahman.farah01@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/abdurahman-farah)
